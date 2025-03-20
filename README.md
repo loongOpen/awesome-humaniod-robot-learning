@@ -1,6 +1,6 @@
 # awesome-humaniod-robot-learning
 
-Here are some learning resources on humanoid robots, categorized into courses, books, lectures, and blogs, along with their corresponding links:
+Here are some learning resources on humanoid robots, categorized into courses, books, lectures, and blogs, along with their corresponding links. Please submit a pull request if there is any material that you think should be included in this collection.
 
 ## Courses
 - [Optimization Control for Robots](https://drive.google.com/drive/mobile/folders/0BwvOnEYRiTt6fnc4ZHFrVUpjNDliQXlUdWdwRE82eTNSZWNlU19OY0JpMkZ5Q3lwb0hacFE?resourcekey=0-I1fIOhuCcD70vbpYMve4MQ)，taught by Professor Andrea Del Prete from the University of Trento.
